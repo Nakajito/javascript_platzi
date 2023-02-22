@@ -6,3 +6,6 @@ ejercicios del curso de javascript en platzi
 
 16/02/2023
     clase 14/30 -  condicionales
+
+21/02/2023
+    clase 19/30 - loops
