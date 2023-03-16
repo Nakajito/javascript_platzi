@@ -12,3 +12,5 @@ ejercicios del curso de javascript en platzi
 
 27/02/2023
     clase 24/30 playground
+16/03/23
+    clase 27/30 playground
